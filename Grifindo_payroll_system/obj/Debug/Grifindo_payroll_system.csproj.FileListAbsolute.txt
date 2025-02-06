@@ -1,0 +1,55 @@
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe.config
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.pdb
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csprojResolveAssemblyReference.cache
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.employee.resources
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Properties.Resources.resources
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.salary.resources
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.setting.resources
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.GenerateResource.Cache
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.exe
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.pdb
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.frm_attendance.resources
+C:\Users\lab1.ESOFTKANDY\Desktop\HND_97\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.main.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe.config
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.pdb
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.employee.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.main.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Properties.Resources.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.salary.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.setting.resources
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.exe
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.pdb
+C:\Users\user\Downloads\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.login.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe.config
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.pdb
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.AssemblyReference.cache
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.employee.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Salary.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Login.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.main.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Properties.Resources.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Setting.resources
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.GenerateResource.cache
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.CoreCompileInputs.cache
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.exe
+E:\HND Assignement\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.pdb
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe.config
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.exe
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.AssemblyReference.cache
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.employee.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Salary.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Login.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.main.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Properties.Resources.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.Setting.resources
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.GenerateResource.cache
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.csproj.CoreCompileInputs.cache
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.exe
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\obj\Debug\Grifindo_payroll_system.pdb
+E:\HND Assignement\SEM 1\Programming\New folder\Final_project_grifendo\Grifindo_payroll_system\Grifindo_payroll_system\bin\Debug\Grifindo_payroll_system.pdb
